@@ -4,7 +4,7 @@
 
 A clean, beautiful and responsive portfolio templete with using only HTML and css.
 Later on add some javascript for animation and designing.
-See the video
+See the video:- https://drive.google.com/file/d/1z17h_B8UC1dHeBKniUPKQKbFNpuxa5uS/view?usp=sharing
 
 ## Sections:
 
